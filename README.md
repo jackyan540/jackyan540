@@ -36,7 +36,6 @@
 ---
 
 
-<!---
 ### 📺 &ensp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -48,8 +47,6 @@
 ➡️ &ensp;[More Videos...](https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw/videos)
 <!-- YOUTUBE:END -->
 
--->
-
 ---
 [website]: https://akanksha1212.github.io/
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcoder_jedi&screen_name=coder_jedi
@@ -59,5 +56,3 @@
 [instagram]: https://www.instagram.com/akankshasingh1212
 [medium]: https://medium.com/@coderjedi
 [email]: mailto:jackyan540@gmail.com
-
-
