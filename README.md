@@ -45,9 +45,7 @@
 - [Hitchhiker's Guide to Hackathons Episode: 1](https://youtu.be/puykQQLTMWs)
 -->
 
-<!--
-➡️ &ensp;[More Videos...](https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw/videos)
--->
+<!-- ➡️ &ensp;[More Videos...](https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw/videos) -->
 <!-- YOUTUBE:END -->
 
 
