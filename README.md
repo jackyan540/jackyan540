@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/coder_jedi?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/Akanksha1212?logo=GitHub&style=for-the-badge)][github]
 -->
-[![Linkedin: AkankshaSingh](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/AkankshaSingh/)][linkedin]
+[![Linkedin: Jack Yan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/yan-jack/)][linkedin]
 
 
 - 🔭 &ensp;I’m currently working on Flutter ❤️ projects
