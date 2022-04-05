@@ -52,10 +52,10 @@
 [website]: https://akanksha1212.github.io/
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcoder_jedi&screen_name=coder_jedi
 [youtube]: https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw?sub_confirmation=1
-[linkedin]: https://linkedin.com/in/Akanksha1212
-[github]: https://github.com/Akanksha1212
+[linkedin]: https://www.linkedin.com/in/yan-jack/
+[github]: https://github.com/jackyan540
 [instagram]: https://www.instagram.com/akankshasingh1212
 [medium]: https://medium.com/@coderjedi
-[email]: mailto:singhakanksha221b@gmail.com
+[email]: mailto:jackyan540@gmail.com
 
 
