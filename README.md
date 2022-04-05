@@ -1,10 +1,12 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/yan-jack/">Jack Yan</a></h1>
 <h3 align="center">Flutter Dev | Hackathon Aficionado </h3>
 
+<!---
 [![Youtube](https://img.shields.io/static/v1?label=CoderJedi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/coder_jedi?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/Akanksha1212?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: AkankshaSingh](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/AkankshaSingh/)][linkedin]
+-->
 
 - 🔭 &ensp;I’m currently working on Flutter ❤️ projects
 - 🌱 &ensp;I’m currently learning React 
