@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/yan-jack/">Jack Yan</a></h1>
-<h3 align="center">Open to Work </h3>
+<h3 align="center">Open to Work in Software | Data Science </h3>
 
 <!---
 [![Youtube](https://img.shields.io/static/v1?label=CoderJedi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
