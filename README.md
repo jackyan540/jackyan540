@@ -14,7 +14,7 @@
 - 👯 &ensp;I’m looking to collaborate with other developers and designers
 - 👩‍💻 &ensp;I'm a hackathon aficionado. Find my hackathon projects [here](https://devpost.com/coderjedi) 
 - ⚡ &ensp;Fun fact: I am also a quizzer. Find my quiz questions on my [quiz blog](https://curiouscuriequiz.wordpress.com/category/quiz-sets/) and [Instagram](https://www.instagram.com/p/BrVMaJrBOBF/) 
-- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
+- 📫 &ensp;How to reach me: [**Email**][email]
 
 <br />
 <br />
@@ -22,22 +22,6 @@
 ### Languages and Tools
 
 [<img src="https://img.icons8.com/color/48/000000/python.png"/>](https://www.python.org/)[<img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>](https://jupyter.org/)[<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>](https://isocpp.org/)[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>](https://www.java.com/en/)[<img src="https://iconape.com/wp-content/png_logo_vector/ocaml-logo-2.png" width=48/>](https://ocaml.org/)[<img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png"/>](https://www.r-project.org/)[<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png" width=48/>](https://www.stata.com/)[<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>](https://code.visualstudio.com/)[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TeXShop_icon.png/600px-TeXShop_icon.png" width=48/>](https://www.latex-project.org/)[<img src="https://images.ctfassets.net/nrgyaltdicpt/6qSXAo1CYEeBn5RkKLOR64/19c74bfb9a32772e353ff25c6f0070f5/ologo_square_colour_light_bg.png" width=48\>](https://www.overleaf.com/)[<img src="https://img.icons8.com/color/48/000000/html-5.png"/>](https://html.spec.whatwg.org/)[<img src="https://img.icons8.com/color/48/000000/css3.png"/>](https://www.w3.org/TR/CSS/#css)[<img src="https://img.icons8.com/color/48/000000/javascript.png"/>](https://www.javascript.com/)
-
----
-
-<!--
-### 📺 &ensp;Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- - [Hitchhiker's Guide to Hackathons Ep:0](https://youtu.be/0VH4pKGHgc0) -->
-- [Using Image Picker in Flutter](https://youtu.be/s0YqbEJcRtE)
-- [Hitchhiker's Guide to Hackathons Episode: 0](https://www.youtube.com/watch?v=uqSdMaWvUHo&ab_channel=CoderJedi)
-- [Hitchhiker's Guide to Hackathons Episode: 1](https://youtu.be/puykQQLTMWs)
--->
-
-<!-- ➡️ &ensp;[More Videos...](https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw/videos) -->
-<!-- YOUTUBE:END -->
-
 
 ---
 [website]: https://akanksha1212.github.io/
