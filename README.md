@@ -6,7 +6,7 @@
 
 - 🏫 &ensp;I’m a Research Associate for [HBS](https://www.hbs.edu/Pages/default.aspx) Professor [Jonathan Wallen](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1284274)
 - 🎓 &ensp;I graduated from Harvard College in 2021 with Honors in [Applied Math-Economics & Computer Science](https://www.seas.harvard.edu/applied-mathematics/undergraduate-program/concentration-information/areas-application)
-- 🌱 &ensp;I’m looking to gain experience in Full Stack Development and Data Science
+- 🌱 &ensp;I’m looking to gain experience in Full Stack Development, Web Development, Machine Learning, and Data Science
 - 📫 &ensp;How to reach me: [**Email**][email]
 
 <!---
