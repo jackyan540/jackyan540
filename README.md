@@ -5,7 +5,7 @@
 
 
 - 🏫 &ensp;I’m a Research Associate for [HBS](https://www.hbs.edu/Pages/default.aspx) Professor [Jonathan Wallen](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1284274)
-- 🎓 &ensp;I graduated from Harvard College in 2021 with Honors in A[pplied Math-Economics & Computer Science](https://www.seas.harvard.edu/applied-mathematics/undergraduate-program/concentration-information/areas-application)
+- 🎓 &ensp;I graduated from Harvard College in 2021 with Honors in [Applied Math-Economics & Computer Science](https://www.seas.harvard.edu/applied-mathematics/undergraduate-program/concentration-information/areas-application)
 - 🌱 &ensp;I’m currently learning React 
 - 👯 &ensp;I’m looking to collaborate with other developers and designers
 - 👩‍💻 &ensp;I'm a hackathon aficionado. Find my hackathon projects [here](https://devpost.com/coderjedi) 
