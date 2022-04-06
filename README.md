@@ -13,19 +13,15 @@
 
 ### Programming Experience
 
-> Examples of my work can be found in profile's [repositories](https://github.com/jackyan540?tab=repositories)
+> Examples of my work can be found in my profile's [repositories](https://github.com/jackyan540?tab=repositories)
 
 ##### Coursework
 
-###### COMPSCI 181: Machine Learning
-
-###### COMPSCI 109A: Introduction to Data Science I
-
-###### COMPSCI 136: Economics & Computation
-
-###### COMPSCI 51: Abstraction & Design in Computation
-
-###### COMPSCI 50: Introduction to Computer Science
+- COMPSCI 181: Machine Learning
+- COMPSCI 109A: Introduction to Data Science I
+- COMPSCI 136: Economics & Computation
+- COMPSCI 51: Abstraction & Design in Computation
+- COMPSCI 50: Introduction to Computer Science
 
 ##### Research Associate (July 2021 - Present)
 
