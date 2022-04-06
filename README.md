@@ -9,8 +9,10 @@
 - 🌱 &ensp;I’m looking to gain experience in Full Stack Development and Data Science
 - 📫 &ensp;How to reach me: [**Email**][email]
 
+<!---
 <br />
 <br />
+--->
 
 ### Languages and Tools
 
