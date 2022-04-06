@@ -16,9 +16,13 @@
 
 ---
 
-### Coding Experience
+### Programming Experience
 
+> Examples of my work can be found in profile's [repositories](https://github.com/jackyan540?tab=repositories)
 
+###### Coursework
+
+###### Research Associate
 ---
 
 ### Languages and Tools
