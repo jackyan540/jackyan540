@@ -5,7 +5,7 @@
 
 
 - 🔭 &ensp;I’m currently working on Flutter ❤️ projects
-- 🎓 &ensp;I graduated 
+- 🎓 &ensp;I graduated from Harvard College in 2021 with Honors in Applied Math-Economics & Computer Science
 - 🌱 &ensp;I’m currently learning React 
 - 👯 &ensp;I’m looking to collaborate with other developers and designers
 - 👩‍💻 &ensp;I'm a hackathon aficionado. Find my hackathon projects [here](https://devpost.com/coderjedi) 
