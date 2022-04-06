@@ -9,20 +9,26 @@
 - 🌱 &ensp;I’m looking to gain experience in Full Stack Development, Web Development, Machine Learning, and Data Science
 - 📫 &ensp;How to reach me: [**Email**][email]
 
-<!---
-<br />
-<br />
---->
-
 ---
 
 ### Programming Experience
 
 > Examples of my work can be found in profile's [repositories](https://github.com/jackyan540?tab=repositories)
 
-###### Coursework
+##### Coursework
 
-###### Research Associate
+###### COMPSCI 181: Machine Learning
+
+###### COMPSCI 109A: Introduction to Data Science I
+
+###### COMPSCI 136: Economics & Computation
+
+###### COMPSCI 51: Abstraction & Design in Computation
+
+###### COMPSCI 50: Introduction to Computer Science
+
+##### Research Associate
+
 ---
 
 ### Languages and Tools
