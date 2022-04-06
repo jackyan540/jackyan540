@@ -27,7 +27,7 @@
 
 ###### COMPSCI 50: Introduction to Computer Science
 
-##### Research Associate
+##### Research Associate (July 2021 - Present)
 
 ---
 
