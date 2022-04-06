@@ -5,6 +5,7 @@
 
 
 - 🔭 &ensp;I’m currently working on Flutter ❤️ projects
+- :mortar_board:;I graduated 
 - 🌱 &ensp;I’m currently learning React 
 - 👯 &ensp;I’m looking to collaborate with other developers and designers
 - 👩‍💻 &ensp;I'm a hackathon aficionado. Find my hackathon projects [here](https://devpost.com/coderjedi) 
