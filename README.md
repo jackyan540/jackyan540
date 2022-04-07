@@ -17,7 +17,7 @@
 
 ##### Coursework
 
-- COMPSCI 181: Machine Learning
+- [COMPSCI 181](https://harvard-ml-courses.github.io/cs181-web-2021/): Machine Learning
 - COMPSCI 109A: Introduction to Data Science I
 - COMPSCI 136: Economics & Computation
 - COMPSCI 51: Abstraction & Design in Computation
