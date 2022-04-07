@@ -19,7 +19,7 @@
 
 - [COMPSCI 181](https://harvard-ml-courses.github.io/cs181-web-2021/): Machine Learning
 - [COMPSCI 109A](https://harvard-iacs.github.io/2020-CS109A/): Introduction to Data Science I
-- COMPSCI 136: Economics & Computation
+- [COMPSCI 136](https://sites.google.com/g.harvard.edu/cs136/): Economics & Computation
 - COMPSCI 51: Abstraction & Design in Computation
 - COMPSCI 50: Introduction to Computer Science
 
