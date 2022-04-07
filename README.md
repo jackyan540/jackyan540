@@ -19,7 +19,8 @@
 
 - Created 32 years of monthly life insurance data from [COMPULIFE](https://compulife.com/) (Life Insurance Quote Software) by automating the Windows GUI
 - Replicated the credit line dataset of [Archarya et al (2014)](https://www.sciencedirect.com/science/article/abs/pii/S0304405X14000191) by using [PANDAS](https://pandas.pydata.org/) to merge and filter Compustat and Capital IQ datasets
-- 
+- Classified employees from 5 major US Banks along seniority and asset classes using position description data from LinkedIn
+- Implemented a program to convert 6 years of daily data from XML formatting to CSV formatting
 
 ##### Coursework
 
