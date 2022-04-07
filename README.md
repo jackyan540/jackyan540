@@ -25,6 +25,8 @@
 
 ##### Research Associate (July 2021 - Present)
 
+- [COMPULIFE](https://compulife.com/) (Life Insurance Quote Software)
+
 ---
 
 ### Languages and Tools
