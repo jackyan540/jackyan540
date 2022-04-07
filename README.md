@@ -17,7 +17,7 @@
 
 ##### Research Associate (July 2021 - Present)
 
-- [COMPULIFE](https://compulife.com/) (Life Insurance Quote Software)
+- Created 32 years of monthly life insurance data from [COMPULIFE](https://compulife.com/) (Life Insurance Quote Software) by automating the Windows GUI
 
 ##### Coursework
 
