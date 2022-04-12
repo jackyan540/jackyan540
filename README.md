@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://drive.google.com/file/d/1HUTmhYNvCZuj0RswbUzFIuK60b61CjJr/view?usp=sharing">Jack Yan</a></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://drive.google.com/file/d/1a9C-2tlF63lL347YpCu2cst1B-4W-kDQ/view?usp=sharing">Jack Yan</a></h1>
 <h3 align="center">Open-to-Work in Software | Data Science </h3>
 
 [![Linkedin: Jack Yan](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/yan-jack/)][linkedin]
